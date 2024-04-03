@@ -9,4 +9,17 @@ This Django app provides weather information for different cities.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/django-weather-app.git
+   git clone https://github.com/JunaidSalim/WeatherApp-Django.git
+
+  ```bash
+  cd django-weather-app
+
+  ```bash
+  pip install -r requirements.txt
+
+  ```bash
+  python3 manage.py runserver
+
+ http://localhost:8000/
+
+
