@@ -1,9 +1,5 @@
 # WeatherApp-Django
- Weather App Created in Django using Open Weather API
-
-# Django Weather App
-
-This Django app provides weather information for different cities.
+ Weather App Created in Django using Open Weather API. This Django app provides weather information for different cities.
 
 ## Installation
 
