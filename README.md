@@ -19,4 +19,4 @@ This Django app provides weather information for different cities.
 
 <a>http://localhost:8000/</a>
 
-
+![Screenshot from 2024-04-05 00-54-00](https://github.com/JunaidSalim/WeatherApp-Django/assets/115392538/97e7698a-6800-44dc-af7f-f05337cf7ecb)
